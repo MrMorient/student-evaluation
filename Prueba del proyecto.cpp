@@ -1,3 +1,8 @@
+/////////////////////////////////////////////////////////
+//Roddiel M. De Jesus Y00659924
+//Desiree M. Rivera Y00653680
+/////////////////////////////////////////////////////////
+
 //Esto es el codigo completo / This is the code completed
 #include <iostream>
 #include <string>
